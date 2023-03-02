@@ -1,0 +1,6 @@
+ABCDEF 
+4
+A, BC  
+AB, E 
+C, DE 
+E, A 

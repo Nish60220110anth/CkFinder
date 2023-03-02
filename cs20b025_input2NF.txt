@@ -1,0 +1,5 @@
+ABCD
+2
+A, B
+B, C
+C, A
