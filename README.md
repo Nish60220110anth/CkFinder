@@ -161,7 +161,7 @@ None
 
 ### Rule
 
-> any valid 2NF can be considered BCNF
+> any valid 2NF can be considered BCNF ( using cycle )
 
 ### Prime Attributes
 
